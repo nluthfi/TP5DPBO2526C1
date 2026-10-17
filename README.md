@@ -83,5 +83,5 @@ Aplikasi tidak lagi menggunakan penyimpanan memori (`ArrayList`), melainkan beri
 
 ## Dokumentasi
 
-[<video src="Dokumentasi/record.mp4" controls width="100%"></video>](https://github.com/user-attachments/assets/ef0cadad-7bf4-49de-8290-3f276232a933)
+https://github.com/user-attachments/assets/5f9c12e7-c516-4c51-9fae-865946afd7c6
 
