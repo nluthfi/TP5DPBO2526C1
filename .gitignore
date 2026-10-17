@@ -1,0 +1,19 @@
+# Compiled class files & build artifacts
+out/
+bin/
+*.class
+PeopleData/out/
+
+# IntelliJ IDEA workspace & user-specific settings
+.idea/workspace.xml
+.idea/shelf/
+.idea/caches/
+.idea/usage.statistics.xml
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
